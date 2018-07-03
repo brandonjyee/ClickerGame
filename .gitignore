@@ -62,4 +62,8 @@ typings/
 
 
 ###############################
+
+# Generated files
 bundle.js
+bundle.js.map
+public/styles/
